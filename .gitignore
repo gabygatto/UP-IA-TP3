@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================
+# Datasets
+# ==========================
+
+data/
+
+# ==========================
+# Modelos entrenados
+# ==========================
+
+models/
+
+# ==========================
+# Jupyter
+# ==========================
+
+.ipynb_checkpoints/
